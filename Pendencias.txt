@@ -1,0 +1,3 @@
+if re.search(r'LEOMAR SOARES TIAGO|PQU4259|908(\.|)813(\.|)701-34', texto, re.I):
+
+if re.search(r'FABIANA ALVES DA SILVA|231(\.|)691(\.|)348-25|32\.823\.537\/0001-48', texto, re.I)
